@@ -1,0 +1,6 @@
+push 5 ;
+push 3 ;
+add;
+store (a) ;
+load (a) ;
+print;
